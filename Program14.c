@@ -1,3 +1,6 @@
+/C program to calculate power of a number....
+#include<stdio.h>
+ 
 // Function to calculate x raised to the power y
 int power(int x, unsigned int y)
 {
