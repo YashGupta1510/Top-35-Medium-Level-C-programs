@@ -9,14 +9,14 @@ int binary_search(int arr[],int m,int s,int e)
      int mid,c=0;
 
      if(s<=e)
-	 {
+     {
           mid=(s+e)/2;
           if(m==arr[mid])
-		  {
+	  {
               return mid;
           }
           else if(m<arr[mid])
-		  {
+	  {
               return binary_search(arr,m,s,mid-1);
           }
           else
@@ -36,7 +36,7 @@ int main()
 
     printf("Enter the elements of the array: " );
     for(i=0;i<n;i++)
-	{
+    {
          scanf("%d",&arr[i]);
     }
 
