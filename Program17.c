@@ -1,7 +1,7 @@
 //C program for calculating prime upto 1000.....
 //Please undersatnd this program: https://github.com/DreamITJob/Basic-C-Programs/blob/master/Program4.c
 //After doing this program please see below links:
-//http://www.geekinterview.com/question_details/42638
+//https://stackoverflow.com/questions/2468412/finding-a-prime-number-after-a-given-number
 //https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/
 #include <stdio.h>
 
