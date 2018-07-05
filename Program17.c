@@ -1,6 +1,8 @@
 //C program for calculating prime upto 1000.....
 //Please undersatnd this program: https://github.com/DreamITJob/Basic-C-Programs/blob/master/Program4.c
-
+//After doing this program please see below links:
+//http://www.geekinterview.com/question_details/42638
+//https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/
 #include <stdio.h>
 
 int Prime(int number)
@@ -39,4 +41,4 @@ int main()
     return 0;
 }
 
-//Please see : https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/
+ 
