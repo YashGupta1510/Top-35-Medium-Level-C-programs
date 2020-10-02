@@ -1,2 +1,2 @@
 # Top-35-Medium-Level-C-programs
-Here are the solutions of programs given in video link: https://www.youtube.com/watch?v=dUI0wX0oS5g&amp;t .first Try these programs by yourself without taking reference from here. if you are not able to solve the problems then take a reference from here. Don't just copy paste from here. Please try to do it yourself. 
+Here are the solutions of programs given in video link: https://www.youtube.com/watch?v=dUI0wX0oS5g&amp;t . First try these programs by yourself without taking any reference.In case you are not able to solve these problems, then take a look on these solutions. Don't just copy paste from here, as we intend to teach you programming not pasting. Programming requires self descipline and dedication.
